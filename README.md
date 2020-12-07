@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://letha11.github.io/edie-homepage-master/">
       Demo
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo? <br>
-  [Demo]()
+  [Here](https://letha11.github.io/edie-homepage-master/)
 
 ### Built With
 
